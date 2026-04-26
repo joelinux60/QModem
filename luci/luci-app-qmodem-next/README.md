@@ -1,6 +1,6 @@
 # LuCI App QModem Next
 
-Modern JavaScript-based LuCI interface for QModem management.
+Modern and fresh JavaScript-based LuCI interface for QModem management.
 
 ## Features
 
